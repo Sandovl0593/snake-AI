@@ -1,1 +1,1 @@
-# Juego de Snake simple con OpneCv con AI
+# Juego de Snake simple con OpenCv con AI
